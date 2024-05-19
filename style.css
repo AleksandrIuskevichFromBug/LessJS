@@ -2,3 +2,23 @@ html {
   height: 100%;
   width: 100%;
 }
+body{
+    display: flex;
+}
+.gosha {
+    
+    width: 35px;
+    height: 40px;
+    background: #a945b0;
+    border: 4px solid #000000;
+    /* position: relative; */
+}
+.gesha {
+
+    width: 35px;
+    height: 40px;
+    background: #a945b0;
+    border: 4px solid #000000;
+     /* position: relative; */
+    margin-left: 40px;
+}

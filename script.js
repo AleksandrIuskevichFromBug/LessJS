@@ -27,3 +27,39 @@
 // // let a = 22;
 // a &&= b;
 // alert (a+b);
+// document.activeElement(document.getElementById("gosha"))
+// document.getElementsByClassName("gosha").item = 0;
+let i = 3;
+// for ( i = 0; i < 5; i++)
+// {
+//    // alert(i);
+//    if (i) console.log (i);
+    
+// }
+// do {
+//     i++;
+// } while (i < 100)
+// console.log (i);
+// console.log(`genadiy_${i},${i+2}`);
+// while(i) {
+
+//    alert (--i);
+//    console.log (i);
+// }
+// let x = 7;
+// switch (x) {
+
+//       case 2: alert("2"); break;
+//       case 3: alert("2"); break;
+//       case 5: alert("2"); break;
+//       case 4: alert("2"); break;
+//       default : console.log("789Элшщ"); break;
+// }
+function jopa (golop){
+
+   console.log (golop &&= "net nichego");
+   return 9;
+   
+}
+
+console.log (jopa(8));
